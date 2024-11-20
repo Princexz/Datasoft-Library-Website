@@ -6,7 +6,7 @@
 </p>
 <h1 align="center">HacktoberFest Accepted </h1>
 
-AEC-Library is an Open-Source library website that will help people in need of books. It has the following categories:
+DATASOFT-Library is an Open-Source library website that will help people in need of books. It has the following categories:
 
 - **Resources:** A section that provides you resources to learn about different topics
 - **Donate Books:** A section to donate your old books
@@ -25,7 +25,7 @@ This website helps you to find the books easily without any cost. The best part 
 - [Contributing Guidelines](#contribution)
 
 <h2> 
-📌<a href="https://aec-library-wbsite.netlify.app/" target="_blank">Visit our website 🚀</a>
+📌<a href="https://DATASOFT-library-wbsite.netlify.app/" target="_blank">Visit our website 🚀</a>
 
 
 📌<a href="https://codeincommunity.bio.link/" target="_blank">Join our Tech Community ⚡</a>
@@ -33,13 +33,13 @@ This website helps you to find the books easily without any cost. The best part 
 
 
 <div align="left">
-<a href="https://github.com/princexz/Aec-Library-Website"><img src="https://tokei.rs/b1/github/princexz/DATASOFT-Library-Website" alt="LOC"/></a>
-<a href="https://github.com/princexz/DATASOFT-Library-Website"><img src="https://img.shields.io/github/stars/princexz/Aec-Library-Website" alt="Stars Badge"/></a>
-<a href="https://github.com/princexz/DATASOFT-Library-Website/network/members"><img src="https://img.shields.io/github/forks/SauravMukherjee44/Aec-Library-Website" alt="Forks Badge"/></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SauravMukherjee44/Aec-Library-Website?color=2b9348"></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website"><img src="https://badges.frapsoft.com/os/v2/open-source.svg" alt="Open Source"/></a>
-<a href="https://github.com/PRINCEXZ/Aec-Library-Website/issues"><img src="https://img.shields.io/github/issues/SauravMukherjee44/Aec-Library-Website" alt="Issues Open"/></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SauravMukherjee44/Aec-Library-Website" alt="License"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website"><img src="https://tokei.rs/b1/github/princexz/DATASOFT-Library-Website" alt="LOC"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website"><img src="https://img.shields.io/github/stars/princexz/DATASOFT-Library-Website" alt="Stars Badge"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website/network/members"><img src="https://img.shields.io/github/forks/princexz/DATASOFT-Library-Website" alt="Forks Badge"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/princexz/DATASOFT-Library-Website?color=2b9348"></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website"><img src="https://badges.frapsoft.com/os/v2/open-source.svg" alt="Open Source"/></a>
+<a href="https://github.com/PRINCEXZ/DATASOFT-Library-Website/issues"><img src="https://img.shields.io/github/issues/princexz/DATASOFT-Library-Website" alt="Issues Open"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/princexz/DATASOFT-Library-Website" alt="License"/></a>
 </div>
 <a href="https://open.vscode.dev/organization/repository"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" alt="Open in Visual Studio Code"/></a>
 </div>

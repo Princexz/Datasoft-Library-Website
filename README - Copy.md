@@ -2,11 +2,11 @@
 
 
 <p align="center">
-<img width="100%" src="https://github.com/SauravMukherjee44/CodeIN-Community-Website/raw/main/assets/img/hack.jpg" alt="main page">
+<img width="100%" src="https://github.com/princexz/CodeIN-Community-Website/raw/main/assets/img/hack.jpg" alt="main page">
 </p>
 <h1 align="center">HacktoberFest Accepted </h1>
 
-AEC-Library is an Open-Source library website that will help people in need of books. It has the following categories:
+DATASOFT-Library is an Open-Source library website that will help people in need of books. It has the following categories:
 
 - **Resources:** A section that provides you resources to learn about different topics
 - **Donate Books:** A section to donate your old books
@@ -25,7 +25,7 @@ This website helps you to find the books easily without any cost. The best part 
 - [Contributing Guidelines](#contribution)
 
 <h2> 
-📌<a href="https://aec-library-wbsite.netlify.app/" target="_blank">Visit our website 🚀</a>
+📌<a href="https://DATASOFT-library-wbsite.netlify.app/" target="_blank">Visit our website 🚀</a>
 
 
 📌<a href="https://codeincommunity.bio.link/" target="_blank">Join our Tech Community ⚡</a>
@@ -33,13 +33,13 @@ This website helps you to find the books easily without any cost. The best part 
 
 
 <div align="left">
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website"><img src="https://tokei.rs/b1/github/SauravMukherjee44/Aec-Library-Website" alt="LOC"/></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website"><img src="https://img.shields.io/github/stars/SauravMukherjee44/Aec-Library-Website" alt="Stars Badge"/></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/network/members"><img src="https://img.shields.io/github/forks/SauravMukherjee44/Aec-Library-Website" alt="Forks Badge"/></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/SauravMukherjee44/Aec-Library-Website?color=2b9348"></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website"><img src="https://badges.frapsoft.com/os/v2/open-source.svg" alt="Open Source"/></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/issues"><img src="https://img.shields.io/github/issues/SauravMukherjee44/Aec-Library-Website" alt="Issues Open"/></a>
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/SauravMukherjee44/Aec-Library-Website" alt="License"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website"><img src="https://tokei.rs/b1/github/princexz/DATASOFT-Library-Website" alt="LOC"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website"><img src="https://img.shields.io/github/stars/princexz/DATASOFT-Library-Website" alt="Stars Badge"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website/network/members"><img src="https://img.shields.io/github/forks/princexz/DATASOFT-Library-Website" alt="Forks Badge"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/princexz/DATASOFT-Library-Website?color=2b9348"></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website"><img src="https://badges.frapsoft.com/os/v2/open-source.svg" alt="Open Source"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website/issues"><img src="https://img.shields.io/github/issues/princexz/DATASOFT-Library-Website" alt="Issues Open"/></a>
+<a href="https://github.com/princexz/DATASOFT-Library-Website/blob/main/LICENSE"><img src="https://img.shields.io/github/license/princexz/DATASOFT-Library-Website" alt="License"/></a>
 </div>
 <a href="https://open.vscode.dev/organization/repository"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" alt="Open in Visual Studio Code"/></a>
 </div>
@@ -61,7 +61,7 @@ Happy Submissions :slightly_smiling_face:
 <a name="project"></a>
 <h1 align=center> Project Maintainer ⚡ </h1>
 <p align="center">
-  <a href="https://github.com/SauravMukherjee44"><img src="https://github.com/SauravMukherjee44/Aec-Library-Website/blob/e2d7870b91f240964e9841a2a147aaf564b5fdb7/images/admin.jpg" width=150px height=150px /></a> 
+  <a href="https://github.com/princexz"><img src="https://github.com/princexz/DATASOFT-Library-Website/blob/e2d7870b91f240964e9841a2a147aaf564b5fdb7/images/admin.jpg" width=150px height=150px /></a> 
 	<p align="center">
 
 <a name="contributor"></a>
@@ -69,8 +69,8 @@ Happy Submissions :slightly_smiling_face:
 <p align="center">
   
 	
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SauravMukherjee44/Aec-Library-Website" />
+<a href="https://github.com/princexz/DATASOFT-Library-Website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=princexz/DATASOFT-Library-Website" />
 </a>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
@@ -83,8 +83,8 @@ If you want to contact me, you can reach me through below handles.
 <div align="center">
 
 <a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a  href="https://www.linkedin.com/in/princexz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/datasoft_tech" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
@@ -96,7 +96,7 @@ If you want to contact me, you can reach me through below handles.
  <div align="center">
       
    <h1 align="center">CodeIN Community</h1>
-       <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
+       <img width="10%" align="center"   src="https://github.com/princexz/princexz/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
  
 I have started a Community named CodeIN Community [Community of Coding Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs. Also, We organize Events on different technologies to help people to get started with these technologies.
 
@@ -141,7 +141,7 @@ Click on fork to create a copy of project to your account. This creates a separa
 
 You have forked the project you want to contribute to your github account. To get this project on your development machine we use clone command of git.
 
-`$ git clone https://github.com/SauravMukherjee44/Aec-Library-Website.git` <br/>
+`$ git clone https://github.com/princexz/DATASOFT-Library-Website.git` <br/>
 Now you have the project on your local machine.
 
 <br />
@@ -151,7 +151,7 @@ Now you have the project on your local machine.
 Remote means the remote location of project on Github. By cloning, we have a remote called origin which points to your forked repository. Now we will add a remote to the original repository from where we had forked.
 
 `$ cd <your-forked-project-folder>`
-`$ git remote add upstream https://github.com/SauravMukherjee44/Aec-Library-Website.git` <br/>
+`$ git remote add upstream https://github.com/princexz/DATASOFT-Library-Website.git` <br/>
 You will see the benefits of adding remote later.
 
 <br />
@@ -199,6 +199,6 @@ Good Luck for your journey
 
 
 © 2021 Saurav Mukherjee and contributors\
-This project is licensed under the [**MIT license**](https://github.com/SauravMukherjee44/Aec-Library-Website/blob/main/LICENSE).
+This project is licensed under the [**MIT license**](https://github.com/princexz/DATASOFT-Library-Website/blob/main/LICENSE).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)

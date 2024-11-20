@@ -1,6 +1,6 @@
-<h1> Contributors of Aec-Library-Website </h1>
+<h1> Contributors of DATASOFT-Library-Website </h1>
 
-<li>SauravMukherjee44</li>
+<li>princexz</li>
 <li>tier3guy</li>
 <li>Rohan749</li>
 <li>harshita214</li>
