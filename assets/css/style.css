@@ -2,13 +2,13 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	font-family: 'Baloo 2', cursive;
+	font-family: FuturaLTPro-Book!important;
    
 } 
 
 html,
 body {
-	font-family: "Playfair Display", serif;
+	font-family: FuturaLTPro-Book!important;
 	width: 100%;
 	overflow: hidden;
 }
